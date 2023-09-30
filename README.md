@@ -1,6 +1,7 @@
 # SQL-Assignment-1_Unmessenger
 Here I have solved the assignment of some SQL questions please find the file name "SQL Assignment 1.sql" uploaded for the entire code and solution.
 Questions of assignments are :-
+
 Question 1:
 Write an SQL query to fetch “FIRST_NAME” from the Worker table using the alias name
 <WORKER_NAME>.
